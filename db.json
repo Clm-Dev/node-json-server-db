@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "cristian",
+      "apellido": "Cabal",
+      "materias": [
+        {
+          "nombre": "NodeJs desde Cero"
+        },
+        {
+          "nombre": "Diseño Weg"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "de01"
+    },
+    {
+      "id": "70bd",
+      "nombre": "Camila",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Visa",
+      "promedio": 8.5,
+      "id": "034b"
+    },
+    {
+      "nombre": "Andrea",
+      "apellido": "Molina",
+      "promedio": 8,
+      "id": "304a"
+    },
+    {
+      "nombre": "Dario",
+      "apellido": "Mastercard",
+      "promedio": 9,
+      "id": "0f99"
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "36df"
+    },
+    {
+      "nombre": "React.js",
+      "duración": 4,
+      "dificultad": "baja",
+      "id": "1d98"
+    },
+    {
+      "nombre": "Bases de Datos",
+      "duración": 5,
+      "dificultad": "alta",
+      "id": "8042"
+    }
+  ]
+}
